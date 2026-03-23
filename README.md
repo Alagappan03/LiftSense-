@@ -1,4 +1,4 @@
-🚀 LiftSense
+## 🚀 LiftSense
 
 LiftSense is a smart wearable system designed to make elevator maintenance safer, faster, and easier ⚙️. It helps technicians perform complex tasks with confidence by providing real-time guidance and clear feedback during their work 👷‍♂️.
 
@@ -73,11 +73,15 @@ This project is supported by a patented system that introduces structured gestur
 
 ![WhatsApp Image 2026-03-23 at 22 57 40](https://github.com/user-attachments/assets/28e25ae6-2d61-40af-9d29-7d80a1779379)
 
+
 ![IP 1](https://github.com/user-attachments/assets/4a1e7368-03c1-4863-9b8d-f6cdae613eae)
+
 
 ![IP 2](https://github.com/user-attachments/assets/1d26eeb9-57ac-4a01-89ed-91ba2945325d)
 
+
 ![WhatsApp Image 2026-03-23 at 22 57 41](https://github.com/user-attachments/assets/2e736e46-75b2-4a0c-bd16-8b1ca4271868)
+
 
 ## Demo
 
